@@ -1,0 +1,8 @@
+2024-03-03 23:38:05 - Menú Principal 
+2024-03-03 23:38:08 - Menú de Empleado
+2024-03-03 23:38:10 - Opcion seleccionada 1 - Agregar ventas
+2024-03-03 23:38:10 - Opcion seleccionada 1 - Menu empleado
+2024-03-03 23:38:15 - Menú de cliente
+2024-03-03 23:38:20 - Opcion seleccionada 0 - Volver a menu principal
+2024-03-03 23:38:20 - Opcion seleccionada 3 - Menu cliente
+2024-03-03 23:38:20 - Opcion seleccionada 0 - cerrar menu

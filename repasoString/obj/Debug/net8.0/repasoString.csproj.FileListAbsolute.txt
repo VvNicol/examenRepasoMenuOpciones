@@ -1,0 +1,14 @@
+D:\VisualStudioProyectos\Proyectos\repasoString\bin\Debug\net8.0\repasoString.exe
+D:\VisualStudioProyectos\Proyectos\repasoString\bin\Debug\net8.0\repasoString.deps.json
+D:\VisualStudioProyectos\Proyectos\repasoString\bin\Debug\net8.0\repasoString.runtimeconfig.json
+D:\VisualStudioProyectos\Proyectos\repasoString\bin\Debug\net8.0\repasoString.dll
+D:\VisualStudioProyectos\Proyectos\repasoString\bin\Debug\net8.0\repasoString.pdb
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\repasoString.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\repasoString.AssemblyInfoInputs.cache
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\repasoString.AssemblyInfo.cs
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\repasoString.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\repasoString.dll
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\refint\repasoString.dll
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\repasoString.pdb
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\repasoString.genruntimeconfig.cache
+D:\VisualStudioProyectos\Proyectos\repasoString\obj\Debug\net8.0\ref\repasoString.dll
